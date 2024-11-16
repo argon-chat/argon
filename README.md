@@ -1,11 +1,13 @@
 # Argon Voice & Video Platform - Master Repository
 
-Welcome to the **Argon Voice & Video Platform** master repository! This repository serves as the central hub for all the information related to our platform, offering voice and video communication solutions that are scalable, reliable, and high-quality.
+Welcome to the **Argon Voice & Video Platform** master repository!     
+This repository serves as the central hub for all the information related to our platform, offering voice and video communication solutions that are scalable, reliable, and high-quality.
 
 ## Overview
 Argon is a distributed, self-hosted platform for voice and video communications, designed to be easily scalable for businesses of all sizes. Whether you're interested in contributing to the code, deploying your own instance, or just staying informed about our progress, you've come to the right place!
 
-This master repository is intended to help you navigate through the Argon platform's development, features, and issue tracking. Here, you'll find details about the overall system, contributions, and the relationships between the different components.
+This master repository is intended to help you navigate through the Argon platform's development, features, and issue tracking.     
+Here, you'll find details about the overall system, contributions, and the relationships between the different components.    
 
 ## Repositories
 The Argon platform is organized into several repositories, each dedicated to a key part of the project:
