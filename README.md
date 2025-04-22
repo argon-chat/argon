@@ -18,6 +18,8 @@ The Argon platform is organized into several repositories, each dedicated to a k
 
 3. **[infra](https://github.com/argon-chat/infra)**: Contains infrastructure-related scripts, such as CI/CD workflows, deployment configurations, and Docker images. This repository is responsible for automation, helping us deploy updates and scale the platform efficiently. (Currently is a private repo)
 
+4. **[server-ee](https://github.com/argon-chat/server-ee)**: Contains enterprice\global-related code, including grains related to security, payment systems, and paid features. (Currently is a private repo)
+
 ## What to Find Here
 In this master repository, we focus on:
 
